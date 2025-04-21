@@ -1,5 +1,5 @@
--- Nama: Agus Setiawan
--- Nim: 23241016
+-- Nama: Bayu Tri Anugrah
+-- Nim: 23241021
 -- Kelas: A/4
 -- Modul: Modul 1 - SELECT Statement, Prefic dan Alias
 
